@@ -5,8 +5,8 @@ When users are shopping online, not all will end up purchasing something. Most v
 ## Output
 ```bash
 $ python shopping.py shopping.csv
-Correct: 4088
-Incorrect: 844
+Correct: 4094
+Incorrect: 838
 True Positive Rate: 41.22%
 True Negative Rate: 90.53%
 ```
